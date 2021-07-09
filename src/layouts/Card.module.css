@@ -1,0 +1,11 @@
+.card {
+    display: grid;
+    gap: 1rem 2rem;
+    max-width: 20rem;
+    min-width: 15rem;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    margin: 12px;
+  }
+ 
